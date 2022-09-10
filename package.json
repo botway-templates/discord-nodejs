@@ -1,7 +1,7 @@
 {
   "name": "{{.BotName}}",
   "version": "0.1.0",
-  "main": "src/main.ts",
+  "main": "src/main.js",
   "dependencies": {
     "@discordjs/builders": "^1.2.0",
     "@discordjs/rest": "^1.1.0",
